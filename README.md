@@ -7,9 +7,12 @@ Ensure that Rust is installed on your machine. If you haven't installed it yet, 
 
 Clone this repository to your local machine by running the following command:
 
+```
 shell
 Copy code
 git clone https://github.com/your-username/RustPlayground.git
+```
+
 Customize the repository structure to suit your coding preferences. You can create directories, organize your code into modules, or use any organizational approach that works best for you.
 
 Start writing Rust code within this repository. Create new files, experiment with different algorithms, data structures, or techniques, and iterate on your implementations.
