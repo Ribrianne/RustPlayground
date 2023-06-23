@@ -1,4 +1,3 @@
-
 RustPlayground
 This is a personal repository for honing My Rust programming skills and exploring new ideas.
 
